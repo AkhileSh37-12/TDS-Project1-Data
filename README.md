@@ -23,7 +23,7 @@ The data includes:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/23f3004008/TDS-Project1-Data.git
+   git clone https://github.com/24f2002540/TDS-Project1-Data.git
    cd TDS-Project1-Data
    ```
 
